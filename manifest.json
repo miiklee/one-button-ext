@@ -10,9 +10,9 @@
     ],
           "js": [
               "scripts/jquery.min.js",
-              "scripts/magnifier.js"
+              "scripts/one-button.js"
     ],
-    "css": ["css/magnifier.css"],
+    "css": ["css/one-button.css"],
           "run_at": "document_idle"
         }
     ] }
